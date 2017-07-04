@@ -1,5 +1,6 @@
+# [Moved to router5 repository](https://github.com/router5/router5/tree/master/packages/react-router5)
+
 [![npm version](https://badge.fury.io/js/react-router5.svg)](https://badge.fury.io/js/react-router5)
-[![Build Status](https://travis-ci.org/router5/react-router5.svg?branch=master)](https://travis-ci.org/router5/react-router5)
 
 # react-router5
 
