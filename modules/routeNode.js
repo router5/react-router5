@@ -24,7 +24,7 @@ function routeNode(nodeName) {
                 this.router.addNodeListener(nodeName, this.nodeListener);
             }
 
-            componentWillUnmout() {
+            componentWillUnmount() {
                 this.router.removeNodeListener(nodeName, this.nodeListener);
             }
 
